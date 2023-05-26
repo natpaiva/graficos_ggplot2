@@ -8,4 +8,4 @@ Palestrante: Natália Santana Paiva (IESC UFRJ)
 
 Veja mais em https://rpubs.com/Brochini/ggplot_2023
 
-Este minucruso contará com o apoio da Mônica Brochini, Doutoranda em Saúde Coletiva - IESC UFRJ
+Este minucruso contará com o apoio da Mônica Brochini (@MMBrochini), Doutoranda em Saúde Coletiva - IESC UFRJ
